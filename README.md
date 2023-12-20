@@ -1,7 +1,8 @@
 # <div align="center">BidBay</div>
 
 <div align="center">
-  <img src="https://i.imgur.com/muCFlpP.png" />
+  <img src= ![image](https://github.com/Rahul21sai/BidBay_mern/assets/110412514/7917bacb-a93f-4985-8c88-c7fd4d421adb)
+/>
 </div>
 
 <br/>
