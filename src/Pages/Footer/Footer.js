@@ -22,7 +22,7 @@ function Footer() {
               rel="noreferrer"
               className=" hover:text-cyan-500 hover:font-medium hover:text-xl duration-200"
             >
-              Naga Sai Rahul Vudumula & Vishnu Priya
+              Naga Sai Rahul&Vishnu Priya
             </a>
           </p>
           <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
